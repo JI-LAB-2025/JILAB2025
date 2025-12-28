@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "JI-LAB-2025/JILAB2025",
+    "data-repo": "JI-LAB-2025/ji-lab-2025.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
